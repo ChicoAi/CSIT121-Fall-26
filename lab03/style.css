@@ -1,0 +1,44 @@
+body {
+  font-family: "Times New Roman", sans-serif;
+  background-color: antiqueWhite;
+  color: lightslateGray;
+}
+
+h1 {
+    color: orangered;
+    text-decoration: underline;
+}
+
+h1, h2, #para1 {
+    text-align: center;
+}
+
+p {
+    border: 2px solid lightslategray;
+    padding: 10px 10px 10px 10px;
+}
+
+.list {
+    text-align: center;
+    color: black;
+}
+
+h3 {
+    text-align: center; 
+    color: darkgreen;
+}
+
+:link {
+    color: orangered;
+    
+    
+}
+
+a:hover {
+    color: darkgreen;
+}
+
+#lab3 {
+    text-align: center;
+    background-color: yellow;
+}
